@@ -29,6 +29,3 @@ hello('John Doe')
 
 ## Features
 
-
-
-
