@@ -32,3 +32,6 @@ test
 
 ##
 remote test
+
+##
+mobile test
