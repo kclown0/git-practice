@@ -35,3 +35,6 @@ remote test
 
 ##
 mobile test
+
+##
+home computer connection
